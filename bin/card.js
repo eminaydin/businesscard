@@ -14,12 +14,12 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Stefan Natter /'),
-  handle: chalk.cyan('natterstefan'),
-  work: chalk.white('Software Engineer at Lovely Systems'),
-  twitter: chalk.cyan('twitter.com/natterstefan'),
-  github: chalk.cyan('github.com/natterstefan'),
-  linkedin: chalk.cyan('linkedin.com/in/natterstefan'),
+  name: chalk.white('Emin Aydın /'),
+  handle: chalk.cyan('eminaydin'),
+  work: chalk.white('Software Developer student at DCI'),
+  twitter: chalk.cyan('twitter.com/eminaydin'),
+  github: chalk.cyan('github.com/eminaydin'),
+  linkedin: chalk.cyan('linkedin.com/in/eminaydin'),
   web: chalk.cyan('natterstefan.com'),
   npx: chalk.white('npx natterstefan'),
   labelWork: chalk.white.bold('      Work:'),
